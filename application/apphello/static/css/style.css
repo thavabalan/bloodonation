@@ -1,0 +1,176 @@
+
+body{
+    display: block;
+}
+
+.header{
+    background-color: rgba(250, 56, 117, 15%);
+    
+}
+.heading{
+    color: #F90652;
+    font-size: 48px;
+    margin-top: 19px;
+    margin-bottom: 19px;
+    font-family: 'Merriweather', serif;
+
+}
+.time{
+    
+    margin-top: 32px;
+    margin-bottom: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+.total{
+    background-color: #CCF906;
+    min-height: 150px;
+    width: 50%;
+    margin: 0 auto;
+    border-radius:38px ;
+    min-height: 212px;
+    min-width: 384px;
+    max-width: 384px !important;
+}
+.male{
+    background-color: #B4D1FF;
+    min-height: 150px;
+    width: 50%;
+    margin: 0 auto;
+    border-radius:38px ;
+    min-height: 212px;
+    min-width: 256px;
+}
+.female{
+    background-color: #FFD689;
+    min-height: 150px;
+    width: 50%;
+    margin: 0 auto;
+    border-radius:38px ;
+    min-height: 212px;
+    min-width: 256px;
+}
+.recurrent{
+    background-color: #FFFA88;
+    min-height: 150px;
+    width: 50%;
+    margin: 0 auto;
+    border-radius:38px ;
+    min-height: 212px;
+    min-width: 384px;
+    max-width: 384px !important;
+}
+.totalv{
+    background-color: #FFC1C1;
+    min-height: 150px;
+    width: 50%;
+    margin: 0 auto;
+    border-radius:38px ;
+    min-height: 212px;
+    min-width: 384px;
+    max-width: 384px !important;
+}
+.count1 h1{
+    font-family: 'Crimson Text', serif;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 11px;
+}
+.count1 p{
+    text-align: center;
+    font-size: 64px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.count1{
+    margin-top: 32px;
+    
+}
+.group{
+    background-color: #BFE9FF;
+    min-height: 404px;
+    border-radius: 38px;
+    margin-left: 18px;
+    margin-top: 32px;
+    margin-right: 18px;
+    text-align: center;
+}
+.group h1{
+    font-family: 'Crimson Text', serif;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 11px;
+
+}
+.group .col{
+    min-height: 272px;
+    min-width: 192px;
+    background-color: white;
+    border-radius: 38px;
+    max-width: 192px !important;
+    margin: 13px;    
+    padding:0px !important;
+}
+.group .groupname{
+    background-color: #FFD5BF;
+    border-radius: 38px 38px 0 0;
+    height: 84px;
+    width: 192px;
+   
+}
+.group h6{
+    font-family: 'Crimson Text', serif;
+
+    font-size: 40px;
+    padding-top: 10px;
+
+}
+.group p{
+    font-size: 64px;
+    font-weight: 700;
+}
+.agegroup{
+    height: 131px;
+    background-color: #BFC6FF;
+    margin-left: 18px;
+    margin-right: 18px;
+    border-radius: 38px;
+    margin-top: 32px;
+}
+.agegroup h1{
+    padding-top: 35px;
+    padding-left: 72px;
+}
+.agegroup .age{
+    height: 99px;
+    background-color: white;
+    margin-top: 16px;
+    border-radius: 38px;
+    width: 315px !important;
+    text-align: center;
+}
+.age p{
+    font-family: 'Crimson Text', serif;
+    font-size: 40px;
+    padding-top: 19px;
+   
+}
+.countage{
+    background-color: #CCF906;
+    border-radius: 0  38px 38px 0;
+    height: 99px;
+}
+.footer{
+    background-color: black;
+    height: 93px;
+    margin-top: 31px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    color: white;
+    padding-top: 24px;
+}
+.dform{
+}

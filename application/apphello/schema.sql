@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS donors;
+
+CREATE TABLE donors (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  dname TEXT NOT NULL,
+  donorid TEXT NULL,
+  donorgroup TEXT NOT NULL,
+  dgender TEXT NOT NULL,
+  dage TEXT NOT NULL,
+  did TEXT NOT NULL,
+  dcontact TEXT NOT NULL,
+  daddress TEXT NOT NULL,
+  recurrent BOOLEAN NOT NULL,
+  agree BOOLEAN NOT NULL,
+  created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
